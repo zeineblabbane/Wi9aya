@@ -1,4 +1,4 @@
-# Miscellaneous
+# Misce# Miscellaneous
 *.class
 *.log
 *.pyc
@@ -39,3 +39,4 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
